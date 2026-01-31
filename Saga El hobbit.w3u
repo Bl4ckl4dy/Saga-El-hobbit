@@ -1,0 +1,46 @@
+
+{
+"name": "EL HOBBIT",
+"image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+"url": "https://af1c1onados.vercel.app/saga.EL.HOBBIT.w3u",
+"info": "bY Virgin Mary",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "El Hobbit Un viaje inesperado",
+        "image": "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg",
+        "url": "https://byseraguci.com/d/6twvjm6d0hyv/el-hobbit-un-viaje-inesperado",
+       	"info": "[2012]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Hobbit La desolación de Smaug",
+        "image": "https://pics.filmaffinity.com/the_hobbit_the_desolation_of_smaug-498845622-large.jpg",
+        "url": "https://byseraguci.com/d/utlux3ncmpu6/el-hobbit-la-desolaci%C3%B3n-de-smaug",
+       	"info": "[2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Hobbit La batalla de los cinco ejércitos",
+        "image": "https://pics.filmaffinity.com/the_hobbit_the_battle_of_the_five_armies-282438316-large.jpg",
+        "url": "https://byseraguci.com/d/qvpldp4loppy/el-hobbit-la-batalla-de-los-cinco-ej%C3%A9rcitos",
+       	"info": "[2014]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
